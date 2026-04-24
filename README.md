@@ -137,6 +137,7 @@ streamlit run app3.py
 
 **Note:** Ensure that `laptop_price_model.pkl` and `columns.pkl` are present in the same directory as `app3.py`.
 
+
 ---
 
 ## Tech Stack
@@ -153,6 +154,8 @@ streamlit run app3.py
 
 **Bhumika Madhwani**
 GitHub: https://github.com/madhwanibhumika24
+<img width="712" height="792" alt="image" src="https://github.com/user-attachments/assets/5d3d38d6-8762-4108-b676-b76a1d80b63b" />
+<img width="638" height="829" alt="image" src="https://github.com/user-attachments/assets/197be2a1-eccd-43af-8932-a1ea93a8c6a7" />
 
 ---
 
